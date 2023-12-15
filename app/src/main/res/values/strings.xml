@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="tituloprincipal">Agenda API</string>
+    <string name="lid">Id</string>
+    <string name="hid">Id</string>
+    <string name="lnombre">Nombre</string>
+    <string name="hnombre">Ingresa tu nombre</string>
+    <string name="ledad">Edad</string>
+    <string name="hedad">Ingresa tu edad</string>
+    <string name="lcorreo">Correo</string>
+    <string name="hcorreo">Ingresa tu correo</string>
+    <string name="bactualiza">Actualizar</string>
+    <string name="belimina">Eliminar</string>
+    <string name="registrar">Registrar</string>
+</resources>
